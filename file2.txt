@@ -1,2 +1,3 @@
 second file
 new string
+line from user2
